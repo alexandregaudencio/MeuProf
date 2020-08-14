@@ -2,7 +2,7 @@
   "name": "NLW-2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "/src/views/index.html",
   "scripts": {
     "dev": "nodemon src/server.js"
   },
